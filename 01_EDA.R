@@ -1,6 +1,3 @@
-
-
-
 #' First clear the environment of variables
 rm(list=ls(all=TRUE))
 setwd("E:/Group/react2_study5/report_phases_combined/projects/react_1_antigen_symptom_prediction/")
